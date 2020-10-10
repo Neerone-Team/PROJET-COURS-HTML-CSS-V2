@@ -3,7 +3,7 @@ body , html , * {
 }
 
 form.signin_form {
-    margin: 150px auto !important;
+    margin: 55px auto !important;
     max-width: 350px;
 }
 
